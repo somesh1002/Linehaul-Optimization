@@ -1,0 +1,7 @@
+Algorithm,Monthly Cost (Rs Cr),Variance vs Baseline,Runtime,Daily Chassis,Physical Spillover,Volumetric Spillover,Hops/kg,Distance (km),Feasibility
+"Global Horizon Schedule",17.55,"-5.78%","40.0 mins",281,"12%","11.44%",0.249,1238.3,"FEASIBLE"
+"Current Operational Baseline",18.62,"0%","120.0 mins",292,"12%","10.35%",0.25,1265,"FEASIBLE"
+"Discrete Evolutionary Search",23.14,"24.26%","22.3 secs",468,"11.88%","11.42%",0.244,1226,"FEASIBLE"
+"Chassis-Centric Adaptive Search",23.32,"25.22%","13.5 secs",462,"11.88%","11.42%",0.221,1220.7,"FEASIBLE"
+"Partitioned Large Neighborhood Search",27.36,"46.91%","3.3 mins",315,"12%","12.72%",0.274,1319.2,"INFEASIBLE"
+"Full Horizon Iterative Fixing",33.66,"80.72%","4.1 mins",723,"12%","11.46%",0.326,1323.4,"FEASIBLE"
